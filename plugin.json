@@ -1,0 +1,11 @@
+{
+	"preload": "preload.js",
+	"logo": "logo.png",
+	"features": [
+		{
+		  "code": "note",
+		  "explain": "用typora打开笔记",
+			"cmds":["note"]
+		}
+	]
+}
